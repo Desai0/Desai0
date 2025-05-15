@@ -4,8 +4,8 @@ Interested in **C++/C#** development, understanding the basics of OOP, I am fami
 Find a lot of fun in phone firmware, **ROOT, custom firmware, magisk modules** and the like. For several years of in-depth work with Android put dozens of custom ROMs, restored soft and hard brick's, lost IMEI, replaced them and many other fun things, it's a pity that now they are tightening the screws and blocking the ability to unlock the bootloader and access to EDL :(. Also worked through the console and Entware with routers, also a lot of custom firmware, overclocking, configuring VPN and fooling equipment to block traffic (zapret).<br>
 In general I love to dig into what I am interested in as deeply as possible, I get ecstasy from **maximum** customization.<br><br>
 I own my own server and personally configured **Xray VPN**: XHTTP + Nginx + SelfSteal + CDN. I host my close friend [@ProgrammerKrot](https://github.com/ProgrammerKrot)'s website.
-Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone. Now I own **Oneplus 12 and RTX 5070 TI + Intel Core 13600KF.**<br>
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤<br>
+Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone. Now I own **Oneplus 12 and RTX 5070 TI + Intel Core 13600KF.**<br><br>
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤<br><br>
 ![6](https://github.com/user-attachments/assets/4c9fdb03-c487-4710-a023-290eb15bda52)
 ![9](https://github.com/user-attachments/assets/7daf9244-6b99-4791-9065-b0fcdc04cf5d)
 ![placeholder](https://github.com/user-attachments/assets/4fb18822-0034-416e-b26c-9c3b9eed46b8)
@@ -14,4 +14,4 @@ Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone.
 ![8](https://github.com/user-attachments/assets/43a57f0c-06cc-494d-b900-cc75e7b86d26)
 ![8](https://github.com/user-attachments/assets/b8bef013-9c61-42e5-a213-2d1aa0417ccd)
 
-
+<br><br>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
