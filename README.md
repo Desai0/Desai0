@@ -5,7 +5,7 @@ Find a lot of fun in phone firmware, **ROOT, custom firmware, magisk modules** a
 In general I love to dig into what I am interested in as deeply as possible, I get ecstasy from **maximum** customization.<br><br>
 I own my own server and personally configured **Xray VPN**: XHTTP + Nginx + SelfSteal + CDN. I host my close friend [@ProgrammerKrot](https://github.com/ProgrammerKrot)'s website.
 Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone. Now I own **Oneplus 12 and RTX 5070 TI + Intel Core 13600KF.**
-<br>
+<br><br>
 ![6](https://github.com/user-attachments/assets/4c9fdb03-c487-4710-a023-290eb15bda52)
 ![9](https://github.com/user-attachments/assets/7daf9244-6b99-4791-9065-b0fcdc04cf5d)
 ![placeholder](https://github.com/user-attachments/assets/4fb18822-0034-416e-b26c-9c3b9eed46b8)
