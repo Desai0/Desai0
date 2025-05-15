@@ -1,10 +1,9 @@
 ### Zdravstvuyte 👋
-I am a student from St. Petersburg, learning in the direction: **Software Development.** <br><br>
-Interested in **C++/C#** development, understanding the basics of OOP, I am familiar with Python, JS, Databases (LiteSQL, PostgreSQL), Bash. **I use Arch btw :3**, but have to use Windows too. I study neural networks, I like to work with them locally.<br><br>
-Find a lot of fun in phone firmware, **ROOT, custom firmware, magisk modules** and the like. For several years of in-depth work with Android put dozens of custom ROMs, restored soft and hard brick's, lost IMEI, replaced them and many other fun things, it's a pity that now they are tightening the screws and blocking the ability to unlock the bootloader and access to EDL :(. Also worked through the console and Entware with routers, also a lot of custom firmware, overclocking, configuring VPN and fooling equipment to block traffic (zapret).<br>
-In general I love to dig into what I am interested in as deeply as possible, I get ecstasy from **maximum** customization.<br><br>
-I own my own server and personally configured **Xray VPN**: XHTTP + Nginx + SelfSteal + CDN. I host my close friend [@ProgrammerKrot](https://github.com/ProgrammerKrot)'s website.
-Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone. Now I own **OnePlus 12 and RTX 5070 TI + Intel Core 13600KF.**
+I'm a student from St. Petersburg, studying **Software Development**. <br><br>
+I'm into **C++/C#** development, have a good grasp of OOP basics, and I'm familiar with Python, JS, Databases (LiteSQL, PostgreSQL), and Bash. **I use Arch btw :3**, but I have to use Windows too. I'm also learning about neural networks and enjoy tinkering with them locally.<br><br>
+I have a lot of fun messing with phone firmware – **ROOT, custom firmware, Magisk modules**, and all that jazz. Over several years of diving deep into Android, I've flashed dozens of custom ROMs, recovered soft and hard bricks, dealt with lost IMEIs, and tackled many other fun challenges. It's a shame they're tightening the screws now, blocking bootloader unlocks and EDL access :(. I've also tinkered with routers via console and Entware – flashing custom firmware, overclocking, setting up VPNs, and bypassing traffic blocking (zapret).<br>
+Generally, I love to dig into whatever interests me as deeply as possible; I get a real kick out of **maximum** customization.<br><br>
+I run my own server and personally set up an **Xray VPN**: XHTTP + Nginx + SelfSteal + CDN. I also host my close friend [@ProgrammerKrot](https://github.com/ProgrammerKrot)'s website. I love beautiful 2D art/characters and even made my own animated wallpapers for my phone. Currently, I'm rocking a **OnePlus 12, an RTX 5070 TI**, and an **Intel Core 13600KF.**
 <br><br>
 ![6](https://github.com/user-attachments/assets/4c9fdb03-c487-4710-a023-290eb15bda52)
 ![9](https://github.com/user-attachments/assets/7daf9244-6b99-4791-9065-b0fcdc04cf5d)
@@ -17,3 +16,4 @@ Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone.
 ![2](https://github.com/user-attachments/assets/c05a7a1b-a2b1-45bb-9904-64611f71e1d2)
 ![2](https://github.com/user-attachments/assets/e88572d7-2caf-42b0-bb3b-0b52d095dc79)
 ![8](https://github.com/user-attachments/assets/c5d58295-c35f-4659-9ae5-667dd738c6b5)
+
