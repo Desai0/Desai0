@@ -14,4 +14,4 @@ Love beautiful artwork 2d pulls and made myself animated wallpapers on my phone.
 ![8](https://github.com/user-attachments/assets/43a57f0c-06cc-494d-b900-cc75e7b86d26)
 ![8](https://github.com/user-attachments/assets/b8bef013-9c61-42e5-a213-2d1aa0417ccd)
 
-<br><br>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+<br>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
