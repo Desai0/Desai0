@@ -5,7 +5,7 @@ I have a lot of fun messing with phone firmware – **ROOT, custom firmware, Mag
 Generally, I love to dig into whatever interests me as deeply as possible; I get a real kick out of **maximum** customization.<br><br>
 I run my own server and personally set up an **Xray VPN**: XHTTP + Nginx + SelfSteal + CDN. I also host my close friend [@ProgrammerKrot](https://github.com/ProgrammerKrot)'s website. I love beautiful 2D tyans and even made my own animated wallpapers for my phone. Currently, I'm rocking a **OnePlus 12, an RTX 5070 TI**, and an **Intel Core 13600KF.**
 
-[keepandroidopen.org](keepandroidopen.org), Android must be open
+[keepandroidopen](https://keepandroidopen.org/ru/), Android must be open!
 <br><br>
 ![6](https://github.com/user-attachments/assets/4c9fdb03-c487-4710-a023-290eb15bda52)
 ![9](https://github.com/user-attachments/assets/7daf9244-6b99-4791-9065-b0fcdc04cf5d)
